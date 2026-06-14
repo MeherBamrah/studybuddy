@@ -1,6 +1,6 @@
 # ✦ StudyBuddy — AI Study Assistant
 
-A **NotebookLM-style AI study app** built with Next.js and the Gemini API. Upload PDFs, images, or handwritten notes and have a full multi-turn conversation with a Gemini-powered agent — right from your browser.
+A **AI study app** built with Next.js and the Gemini API. Upload PDFs, images, or handwritten notes and have a full multi-turn conversation with a Gemini-powered agent — right from your browser.
 
 Built for **GDG hands-on sessions** as a "Build with Gemini" demo.
 
